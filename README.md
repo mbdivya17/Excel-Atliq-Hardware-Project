@@ -11,10 +11,10 @@ Task : To create report on Sales Analytics and Finance Analytics for Atliq using
 
 - Performed ETL(Extract, Tranform and Load):imported csv files into excel, then used power query to perform some transformation like replace values,converted negative values into 
   absolute value and later transform data loaded back to excel.
-- Connected Dimension and Fact tables using Data modelling in power pivot by method of star schema. 
-- Created dim_date table consists of column like date, month and fiscal year of Atliq using Power Query M-Language and added dim_date table to data model later connected to Fact table.
+- Connected dimension andfFact tables using data modelling in power pivot by method of star schema. 
+- Created dim_date table consists of column like date, month and fiscal year of Atliq using Power Query M-Language and added dim_date table to data model later connected to fact table.
 - Used Date Analysis Expression(DAX) function such as sum,calculte,divide and so on for calculating appropriate measures, created Customer Performance Report and Market Performance vs 
-  Target report using Pivot table.
+  Target Report using pivot table.
 
 Purpose of sales analytics : Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -23,8 +23,8 @@ Purpose of sales analytics : Evaluation of financial performance, support decisi
 - Added finance data to data model using power query.
 - Used DAX function for calculating appropriate measures.
 - Derived fiscal months and quarters in dim_date table using power pivot.
-- Created P & L Statement by Fiscal Year Report,P & L statement by Market report and P & L statement by quarters report using Pivot table.
+- Created P & L Statement by Fiscal Year Report,P & L statement by Market Report and P & L statement by Quarters Report using pivot table.
 
-Purpose of finance analytics : Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+Purpose of finance analytics : Aid in benchmarking against industry peers and previous periods foundation for budgeting and forecasting.
 
 Role of reports:Align financial planning with strategic goals instill confidence in the organization's financial outlook.

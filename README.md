@@ -23,7 +23,7 @@ Purpose of sales analytics : Evaluation of financial performance, support decisi
 - Added finance data to data model using power query.
 - Used DAX function for calculating appropriate measures.
 - Derived fiscal months and quarters in dim_date table using power pivot.
-- Created P & L Statement by Fiscal Year Report,P & L statement by Market report, and P & L statement by quarters report using Pivot table.
+- Created P & L Statement by Fiscal Year Report,P & L statement by Market report and P & L statement by quarters report using Pivot table.
 
 Purpose of finance analytics : Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 

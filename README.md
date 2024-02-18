@@ -5,7 +5,7 @@ Atliq Hardware Project
 Business Model of Atliq: 
             Atliq is a company that sells hardware like PC, mouse, printers and so on to different stores(customers) like croma, BESTBUY, STAPLES, flipkart and then from there, these stores will sell the hardware to the end consumer person.They have manufacturing facility where they build all these hardware and then they send it to a warehouse distribution centers. They have business in different countries, so they ship it to different location and from there the material or the hardware items will go to the individual stores.
 
-Task : To create report on Sales Analytics and Finance Analytics for Atliq using requirement file given by Atliq business users to understand the end business outcome.
+Task : To create report on Sales and Finance Analytics for Atliq using requirement file given by Atliq business users to understand the end business outcome.
 
 1. Sales Analytics : Following methods are involved in creating report on Sales Analytics.
 

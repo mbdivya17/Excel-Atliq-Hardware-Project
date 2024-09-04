@@ -1,4 +1,4 @@
-# Excel-Atliq-Hardware-Project
+# Sales and Finance Analytics
 
 Atliq Hardware Project
 

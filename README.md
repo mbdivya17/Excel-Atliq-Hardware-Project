@@ -13,7 +13,7 @@ Task : To create report on Sales and Finance Analytics for Atliq using requireme
   absolute value and later transform data loaded back to excel.
 - Connected dimension and fact tables using data modelling in power pivot by method of star schema. 
 - Created dim_date table consists of column like date, month and fiscal year of Atliq using Power Query M-Language and added dim_date table to data model later connected to fact table.
-- Used Date Analysis Expression(DAX) function such as sum,calculte,divide and so on for calculating appropriate measures, created Customer Performance Report and Market Performance vs 
+- Used Date Analysis Expression(DAX) function such as sum, calculate, divide and so on for calculating appropriate measures, created Customer Performance Report and Market Performance vs 
   Target Report using pivot table.
 
 Purpose of sales analytics : Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
